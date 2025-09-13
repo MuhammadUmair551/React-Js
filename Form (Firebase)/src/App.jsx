@@ -1,10 +1,11 @@
 import React from 'react'
 import Router from './config/Router'
+
 function App() {
   return (
-    <>
+    <div>
       <Router />
-    </>
+    </div>
   )
 }
 
